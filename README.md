@@ -4,7 +4,7 @@ Este projeto demonstra o uso de **herança** em JavaScript, onde criamos uma cla
 
 ## Estrutura do Código
 
-### 1. **Classe `Animal` (Classe Base)**
+###  **Classe `Animal` (Classe Base)**
 
 A classe `Animal` é uma classe abstrata, o que significa que não pode ser instanciada diretamente. Ela define as propriedades básicas de um animal, como `especie`, `idade` e `cor`, e também um método `exibirDetalhes()` que exibe essas informações.
 
